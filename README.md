@@ -1,21 +1,37 @@
-# 💫 About Me:
-🔭 I’m currently working as a Senior Full-Stack AI Engineer at Huzzle.com and developing Estabraq, a live fashion e-commerce platform.
-👯 I’m looking to collaborate on Open-source Generative AI tools, Agentic Workflows, and advanced Next.js SaaS architectures.
-🤝 I’m looking for help with Scaling RAG (Retrieval-Augmented Generation) models for production-level enterprise applications and clinical decision support systems.
-🌱 I’m currently learning Advanced Cloud Native patterns on Oracle Cloud (OCI) and refining my skills as an IBM Agentic AI Expert.
-💬 Ask me about Full Stack Development (MERN/Next.js), Multimodal Computer Vision (PyTorch, CLIP, Whisper), or my research on deepfake detection.
-⚡ Fun fact: I authored MAPF-Lite, a parameter-efficient framework for high-fidelity deepfake detection accepted at the FLINS-ISKE 2026 journal, and I am a Certified Oracle Generative AI Professional.
+<div align="center">
 
-## 🏆 Research & Key Projects:
-* **MAPF-Lite:** A journal-accepted deepfake detection framework achieving 99.34% accuracy at 0.566M parameters. Reduced trainable parameters by 99.6% using frozen CLIP/Whisper backbones.
-* **LingumedAI:** An AI-powered clinical assistant utilizing a domain-specific RAG pipeline and pgvector to provide hallucination-resistant diagnostic guidance over sensitive healthcare data.
-* **DeployGenius:** A multi-tenant AI SaaS platform featuring multi-session chat management, RAG grounding, and agentic workflows integrated with Stripe.
-* **TeleMed AI:** A cross-platform telemedicine ecosystem equipped with an AI-powered diagnostic scan for initial patient assessments.
+# ░▒▓ 𝗠𝗨𝗛𝗔𝗠𝗠𝗔𝗗 𝗔𝗕𝗗𝗨𝗟𝗟𝗔𝗛 𝗕𝗨𝗧𝗧 ▓▒░
+### 🚀 [ / / : 𝗦𝗘𝗡𝗜𝗢𝗥 𝗙𝗨𝗟𝗟-𝗦𝗧𝗔𝗖𝗞 𝗔𝗜 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 & 𝗥𝗘𝗦𝗘𝗔𝗥𝗖𝗛𝗘𝗥 ]
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-abdullahbutt/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdullahbutt3579@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadabdullahbutt)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdullahbutt3579@gmail.com)
 
-# 💻 Tech Stack:
+</div>
+
+---
+
+## 💻 // 𝗦𝗬𝗦𝗧𝗘𝗠_𝗢𝗩𝗘𝗥𝗩𝗜𝗘𝗪 [ About Me ]
+> **[ CONNECTION STATUS: SECURE ]**
+
+- 🔭 **Executing Task:** Senior Full-Stack AI Engineer @ Huzzle.com & Architecting Estabraq (Live fashion e-commerce platform).
+- 🧠 **Research Core:** Author of **MAPF-Lite**, a journal-accepted deepfake detection framework (99.34% accuracy at 0.566M parameters) accepted at FLINS-ISKE 2026.
+- 🌱 **Upgrading Nodes:** Advanced Cloud Native patterns on Oracle Cloud (OCI) and refining my skills as an IBM Agentic AI Expert.
+- 👯 **Open Comm-Link:** Looking to collaborate on Open-source Generative AI tools, Agentic Workflows, and advanced Next.js SaaS architectures.
+- 💬 **Ping Me For:** Full Stack Development (MERN/Next.js), Multimodal Computer Vision (PyTorch, CLIP, Whisper), or scaling RAG pipelines.
+- ⚡ **Authentication:** Certified Oracle Generative AI Professional & IBM Agentic AI Expert.
+
+---
+
+## 🔬 // 𝗖𝗢𝗥𝗘_𝗠𝗢𝗗𝗨𝗟𝗘𝗦 [ Research & Key Projects ]
+
+* **[>_ MAPF-Lite]** A parameter-efficient multimodal framework for high-fidelity deepfake detection. Reduced trainable parameters by 99.6% using frozen CLIP/Whisper backbones. *(Accepted: FLINS-ISKE Journal 2026).*
+* **[>_ LingumedAI]** Clinical assistant utilizing a domain-specific RAG pipeline and pgvector for hallucination-resistant diagnostic guidance over sensitive healthcare data.
+* **[>_ DeployGenius]** Multi-tenant AI SaaS platform featuring multi-session chat management, RAG grounding, and agentic workflows integrated with Stripe.
+* **[>_ TeleMed AI]** Cross-platform telemedicine ecosystem equipped with an AI-powered diagnostic scan for initial patient assessments.
+
+---
+
+## ⚙️ // 𝗧𝗘𝗖𝗛_𝗦𝗧𝗔𝗖𝗞_𝗔𝗥𝗖𝗛𝗜𝗧𝗘𝗖𝗧𝗨𝗥𝗘
 
 ### 🤖 AI & LLM
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-black?style=for-the-badge) ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white) ![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge) ![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-000000?style=for-the-badge) ![Pinecone](https://img.shields.io/badge/Pinecone-black?style=for-the-badge) ![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-5A5A5A?style=for-the-badge)
@@ -36,12 +52,24 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-black?style=for-the-badge) ![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
 ### 🛠️ Languages & Other Tools
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![FFmpeg](https://img.shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![FFmpeg](https://img.shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Abdullahs-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Abdullahs-git&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahs-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 📊 // 𝗧𝗘𝗟𝗘𝗠𝗘𝗧𝗥𝗬_𝗗𝗔𝗧𝗔 [ GitHub Stats ]
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdullahs-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <br/>
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Abdullahs-git&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <br/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahs-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</div>
+
+---
+
+### ✍️ // 𝗦𝗬𝗦𝗧𝗘𝗠_𝗟𝗢𝗚 [ Random Dev Quote ]
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
