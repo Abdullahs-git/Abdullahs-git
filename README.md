@@ -9,16 +9,14 @@
 </a>
 
 <!-- Live Uplink Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abdullahs-git&label=SYSTEM_PINGS&color=7aa2f7&style=for-the-badge&base=1000" alt="Profile Views" />
-</p>
+<br />
+<img src="https://komarev.com/ghpvc/?username=Abdullahs-git&label=SYSTEM_PINGS&color=7aa2f7&style=for-the-badge&base=1000" alt="Profile Views" />
+<br /><br />
 
-<!-- Tech-Loaded Badges -->
-<p align="center">
-  <a href="mailto:abdullahbutt3579@gmail.com"><img src="https://img.shields.io/badge/SECURE_COMM-EMAIL-1a1b26?style=for-the-badge&logo=gmail&logoColor=f7768e" alt="Email" /></a>
-  <a href="https://linkedin.com/in/muhammadabdullahbutt"><img src="https://img.shields.io/badge/NEURAL_LINK-LINKEDIN-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" alt="LinkedIn" /></a>
-  <a href="https://github.com/Abdullahs-git"><img src="https://img.shields.io/badge/VERSION_CONTROL-GITHUB-1a1b26?style=for-the-badge&logo=github&logoColor=a9b1d6" alt="GitHub" /></a>
-</p>
+<!-- Social Badges -->
+<a href="mailto:abdullahbutt3579@gmail.com"><img src="https://img.shields.io/badge/SECURE_COMM-EMAIL-1a1b26?style=for-the-badge&logo=gmail&logoColor=f7768e" alt="Email" /></a>
+<a href="https://linkedin.com/in/muhammadabdullahbutt"><img src="https://img.shields.io/badge/NEURAL_LINK-LINKEDIN-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" alt="LinkedIn" /></a>
+<a href="https://github.com/Abdullahs-git"><img src="https://img.shields.io/badge/VERSION_CONTROL-GITHUB-1a1b26?style=for-the-badge&logo=github&logoColor=a9b1d6" alt="GitHub" /></a>
 
 </div>
 
@@ -45,14 +43,12 @@ I am a Full Stack AI Engineer and Researcher bridging the gap between theoretica
     <td width="50%" valign="top">
       <h4>🌐 <code>DEPLOYGENIUS_OS</code></h4>
       <p><b>Overview:</b> Multi-tenant AI SaaS platform featuring multi-session chat management and agentic workflows.</p>
-      <p><b>Business Problem:</b> Streamlining subscription lifecycle and automated deployment generation.</p>
       <p><b>Architecture:</b> FastAPI, LangChain, Next.js 14, Redis, PostgreSQL.</p>
       <p><b>Highlights:</b> Integrated Stripe for full subscription lifecycle management including tiered pricing and webhooks. Optimized API latency and token consumption, cutting operational costs by 25%.</p>
     </td>
     <td width="50%" valign="top">
       <h4>🧬 <code>LINGUMED_AI</code></h4>
       <p><b>Overview:</b> AI-powered clinical assistant granting instant access to diagnostic guidance and drug interaction checks.</p>
-      <p><b>Business Problem:</b> Reducing critical dependency on unavailable physicians in high-stress clinical environments.</p>
       <p><b>Architecture:</b> React, FastAPI, LangChain, pgvector, OpenAI API.</p>
       <p><b>Highlights:</b> Domain-specific RAG pipeline ingesting medical literature into a pgvector store, enabling hallucination-resistant responses. Engineered low-latency streaming via server-sent events.</p>
     </td>
@@ -61,14 +57,12 @@ I am a Full Stack AI Engineer and Researcher bridging the gap between theoretica
     <td width="50%" valign="top">
       <h4>🛡️ <code>MAPF-LITE_FRAMEWORK</code></h4>
       <p><b>Overview:</b> Parameter-efficient multimodal architecture for high-fidelity audiovisual deepfake detection.</p>
-      <p><b>Business Problem:</b> Adversarial multimedia attacks requiring fast edge-device detection accuracy.</p>
       <p><b>Architecture:</b> PyTorch, Vision Transformers, CLIP, Whisper.</p>
       <p><b>Highlights:</b> Achieved 99.84% AUC on FakeAVCeleb. Reduced trainable parameters by 99.6% utilizing frozen backbones with SRM and DCT analysis. 4.7x real-time inference speed deployable on edge devices.</p>
     </td>
     <td width="50%" valign="top">
       <h4>🛍️ <code>ESTABRAQ_COMMERCE</code></h4>
       <p><b>Overview:</b> Live fashion e-commerce platform.</p>
-      <p><b>Business Problem:</b> Omnichannel shopping experience requiring high-performance content delivery.</p>
       <p><b>Architecture:</b> Next.js App Router, TypeScript, Prisma ORM, Supabase.</p>
       <p><b>Highlights:</b> Achieved sub-2-second load times in production. Integrated GraphQL APIs and CDN-backed image optimization, reducing client-server latency by 30%. Automated CI/CD pipelines reducing release cycles by 25%.</p>
     </td>
@@ -82,42 +76,22 @@ I am a Full Stack AI Engineer and Researcher bridging the gap between theoretica
 <div align="center">
 
 #### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 
 #### 🎨 Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
 
 #### ⚙️ Backend Engineering & APIs
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![REST](https://img.shields.io/badge/REST_APIs-1a1b26?style=for-the-badge&logo=json&logoColor=7aa2f7)
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" /> <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" /> <img src="https://img.shields.io/badge/REST_APIs-1a1b26?style=for-the-badge&logo=json&logoColor=7aa2f7" alt="REST APIs" />
 
 #### 🤖 Artificial Intelligence & Machine Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white)
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" /> <img src="https://img.shields.io/badge/HuggingFace-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
 
 #### 🗄️ Databases & Data Engineering
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" /> <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
 
 #### ☁️ Cloud, DevOps & Distributed Systems
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" /> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" /> <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 
 </div>
 
@@ -176,7 +150,8 @@ I am a Full Stack AI Engineer and Researcher bridging the gap between theoretica
 
   <br/><br/>
 
-  <!-- High-Tech Contribution Snake -->
+  <!-- NOTE: For this snake animation to work, you must set up the GitHub Action in your repository. 
+       If it appears broken, remove this block until you set up the 'snk' action. -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdullahs-git/Abdullahs-git/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdullahs-git/Abdullahs-git/output/github-contribution-grid-snake.svg">
@@ -204,11 +179,13 @@ I am a Full Stack AI Engineer and Researcher bridging the gap between theoretica
 
 **[ INITIATE CONNECTION PROTOCOL ]**
 
-<p align="center">
-  <a href="mailto:abdullahbutt3579@gmail.com"><img src="https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=f7768e" alt="Email" /></a>
-  <a href="https://linkedin.com/in/muhammadabdullahbutt"><img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" alt="LinkedIn" /></a>
-  <a href="https://github.com/Abdullahs-git"><img src="https://img.shields.io/badge/GitHub-1a1b26?style=for-the-badge&logo=github&logoColor=a9b1d6" alt="GitHub" /></a>
-</p>
+<br />
+
+<a href="mailto:abdullahbutt3579@gmail.com"><img src="https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=f7768e" alt="Email" /></a>
+<a href="https://linkedin.com/in/muhammadabdullahbutt"><img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" alt="LinkedIn" /></a>
+<a href="https://github.com/Abdullahs-git"><img src="https://img.shields.io/badge/GitHub-1a1b26?style=for-the-badge&logo=github&logoColor=a9b1d6" alt="GitHub" /></a>
+
+<br /><br />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26&height=4&width=100%" alt="Footer Line" />
 
