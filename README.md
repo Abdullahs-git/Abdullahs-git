@@ -135,28 +135,12 @@ I am a Full Stack AI Engineer and Researcher bridging the gap between theoretica
 
 <div align="center">
   
-  <a href="https://github.com/Abdullahs-git">
-    <img src="https://github-readme-stats.vercel.app/api?username=Abdullahs-git&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Abdullahs-git">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullahs-git&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
-  </a>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdullahs-git&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)](https://github.com/Abdullahs-git)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdullahs-git&theme=tokyonight&hide_border=true)](https://github.com/Abdullahs-git)
 
-  <br/><br/>
-  
-  <a href="https://github.com/Abdullahs-git">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahs-git&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" width="49%" alt="Top Languages" />
-  </a>
+<br/>
 
-  <br/><br/>
-
-  <!-- NOTE: For this snake animation to work, you must set up the GitHub Action in your repository. 
-       If it appears broken, remove this block until you set up the 'snk' action. -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdullahs-git/Abdullahs-git/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdullahs-git/Abdullahs-git/output/github-contribution-grid-snake.svg">
-    <img alt="Activity Matrix Visualization" src="https://raw.githubusercontent.com/Abdullahs-git/Abdullahs-git/output/github-contribution-grid-snake-dark.svg" width="100%">
-  </picture>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahs-git&theme=tokyonight&hide_border=true&layout=compact&langs_count=6)](https://github.com/Abdullahs-git)
 
 </div>
 
