@@ -1,75 +1,161 @@
-<div align="center">
+https://capsule-render.vercel.app/api?type=waving&color=1a1b26&height=250&section=header&text=Muhammad%20Abdullah%20Butt&fontSize=50&fontColor=7aa2f7&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20AI%20Engineer%20%7C%20AI%20Researcher&descAlignY=55&descSize=20" width="100%" alt="Header Banner" />
 
-# ░▒▓ 𝗠𝗨𝗛𝗔𝗠𝗠𝗔𝗗 𝗔𝗕𝗗𝗨𝗟𝗟𝗔𝗛 𝗕𝗨𝗧𝗧 ▓▒░
-### 🚀 [ / / : 𝗦𝗘𝗡𝗜𝗢𝗥 𝗙𝗨𝗟𝗟-𝗦𝗧𝗔𝗖𝗞 𝗔𝗜 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 & 𝗥𝗘𝗦𝗘𝗔𝗥𝗖𝗛𝗘𝗥 ]
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadabdullahbutt)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdullahbutt3579@gmail.com)
+https://github.com/Abdullahs-git">
+  https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=bb9af7&center=true&vCenter=true&width=800&lines=Senior+Full+Stack+AI+Engineer;AI+Researcher+%7C+Computer+Vision+%7C+LLMs;Founder+of+Neural+Stack;Architecting+Scalable+Intelligent+Systems" alt="Typing SVG" />
 
-</div>
 
----
 
-## 💻 // 𝗦𝗬𝗦𝗧𝗘𝗠_𝗢𝗩𝗘𝗥𝗩𝗜𝗘𝗪 [ About Me ]
-> **[ CONNECTION STATUS: SECURE ]**
+  https://komarev.com/ghpvc/?username=Abdullahs-git&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="Profile Views" />
 
-- 🔭 **Executing Task:** Senior Full-Stack AI Engineer @ Huzzle.com & Architecting Estabraq (Live fashion e-commerce platform).
-- 🧠 **Research Core:** Author of **MAPF-Lite**, a journal-accepted deepfake detection framework (99.34% accuracy at 0.566M parameters) accepted at FLINS-ISKE 2026.
-- 🌱 **Upgrading Nodes:** Advanced Cloud Native patterns on Oracle Cloud (OCI) and refining my skills as an IBM Agentic AI Expert.
-- 👯 **Open Comm-Link:** Looking to collaborate on Open-source Generative AI tools, Agentic Workflows, and advanced Next.js SaaS architectures.
-- 💬 **Ping Me For:** Full Stack Development (MERN/Next.js), Multimodal Computer Vision (PyTorch, CLIP, Whisper), or scaling RAG pipelines.
-- ⚡ **Authentication:** Certified Oracle Generative AI Professional & IBM Agentic AI Expert.
 
----
+  https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />  https://linkedin.com/in/muhammadabdullahbutt">https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />  https://github.com/Abdullahs-git">https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 
-## 🔬 // 𝗖𝗢𝗥𝗘_𝗠𝗢𝗗𝗨𝗟𝗘𝗦 [ Research & Key Projects ]
 
-* **[>_ MAPF-Lite]** A parameter-efficient multimodal framework for high-fidelity deepfake detection. Reduced trainable parameters by 99.6% using frozen CLIP/Whisper backbones. *(Accepted: FLINS-ISKE Journal 2026).*
-* **[>_ LingumedAI]** Clinical assistant utilizing a domain-specific RAG pipeline and pgvector for hallucination-resistant diagnostic guidance over sensitive healthcare data.
-* **[>_ DeployGenius]** Multi-tenant AI SaaS platform featuring multi-session chat management, RAG grounding, and agentic workflows integrated with Stripe.
-* **[>_ TeleMed AI]** Cross-platform telemedicine ecosystem equipped with an AI-powered diagnostic scan for initial patient assessments.
+
+
+## 🚀 About Me
+
+I am a Full Stack AI Engineer and Researcher based in Gujranwala, Pakistan, dedicated to building scalable web platforms and parameter-efficient LLM-powered systems. My engineering philosophy bridges production-grade software development with cutting-edge artificial intelligence, focusing on multimodal deepfake detection, Computer Vision, and parameter-efficient fine-tuning.
+
+* 🎓 **Education:** Bachelor of Science in Computer Science, GIFT University.
+* 💼 **Experience:** Developing AI-driven recruitment infrastructure and engineering production web applications using Next.js, Node.js, and FastAPI.
+* 🔬 **Research:** Author of *MAPF-Lite: A Parameter-Efficient Multi-Modal Framework for High-Fidelity Deepfake Detection*, accepted for publication at the FLINS-ISKE 2026 international conference.
+* 🏢 **Leadership:** Founder of the software agency Neural Stack, and active participant in the AMD Developer Hackathon Act II.
+* 🔧 **Hardware:** Leveraging an NVIDIA GeForce RTX 4080 GPU for accelerated machine learning environment setups.
 
 ---
 
-## ⚙️ // 𝗧𝗘𝗖𝗛_𝗦𝗧𝗔𝗖𝗞_𝗔𝗥𝗖𝗛𝗜𝗧𝗘𝗖𝗧𝗨𝗥𝗘
+## 💼 Featured Engineering & Research Projects
 
-### 🤖 AI & LLM
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-black?style=for-the-badge) ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white) ![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge) ![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-000000?style=for-the-badge) ![Pinecone](https://img.shields.io/badge/Pinecone-black?style=for-the-badge) ![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-5A5A5A?style=for-the-badge)
 
-### 👁️ Computer Vision
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-white.svg?style=for-the-badge&logo=opencv&logoColor=black) ![Vision Transformers](https://img.shields.io/badge/Vision_Transformers-blue?style=for-the-badge) ![CLIP](https://img.shields.io/badge/CLIP-blue?style=for-the-badge) ![Whisper](https://img.shields.io/badge/Whisper-blue?style=for-the-badge) ![Model Quantization](https://img.shields.io/badge/Model_Quantization-orange?style=for-the-badge) ![PEFT](https://img.shields.io/badge/PEFT-orange?style=for-the-badge) ![Edge Deployment](https://img.shields.io/badge/Edge_Deployment-000000?style=for-the-badge) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+  
+    
+      🧠 DeployGenius
+      A production AI SaaS platform integrated with LangChain, OpenAI API, and Redis-backed RAG pipelines.
+      
+        Architecture: Multi-tenant AI platform with multi-session chat and agentic workflows.
+        Features: Full subscription lifecycle via Stripe, webhooks, and tiered pricing.
+        Performance: Optimized API latency and token consumption, cutting operational costs by 25%.
+      
+              https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />        https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=next.js&logoColor=white" />        https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />      
+    
+    
+      🛡️ MAPF-Lite (FLINS-ISKE 2026)
+      Parameter-efficient multimodal framework for high-fidelity audiovisual deepfake detection.
+      
+        Metrics: Achieved 99.34% accuracy and 99.84% AUC on FakeAVCeleb.
+        Optimization: Reduced trainable parameters by 99.6% to 0.566M.
+        Edge Deployment: 4.7x real-time inference speed; 1.1 GB peak memory usage.
+      
+              https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />        https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />      
+    
+  
+  
+    
+      ⚕️ TeleMed AI
+      A cross-platform telemedicine system featuring AI-driven diagnostic scans and React Native integration.
+      
+        Architecture: Multi-role backend architecture for patients, doctors, and admins.
+        Features: Real-time slot booking and intelligent practitioner onboarding.
+      
+              https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />        https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />      
+    
+    
+      👗 Estabraq E-Commerce
+      Developed and launched an e-commerce brand specializing in traditional South Asian groom wear and suiting.
+      
+        Performance: Achieved sub-2-second load times using App Router and Supabase.
+        Infrastructure: GraphQL APIs, Redis caching, and CDN-backed image optimization.
+      
+              https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />        https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />      
+    
+  
 
-### 🖥️ Frontend
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
-
-### ⚙️ Backend
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-black?style=for-the-badge) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
-
-### 🗄️ Databases
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
-### ☁️ DevOps & Cloud
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-black?style=for-the-badge) ![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-
-### 🛠️ Languages & Other Tools
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![FFmpeg](https://img.shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ---
 
-## 📊 // 𝗧𝗘𝗟𝗘𝗠𝗘𝗧𝗥𝗬_𝗗𝗔𝗧𝗔 [ GitHub Stats ]
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdullahs-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <br/>
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Abdullahs-git&theme=dark&hide_border=false" alt="GitHub Streak" />
-  <br/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahs-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</div>
+## ⚡ Engineering Stack
+
+
+
+### 💻 Programming Languages
+
+
+
+
+### 🎨 Frontend Development
+
+
+
+
+
+### ⚙️ Backend Engineering
+
+
+
+
+
+### 🤖 Artificial Intelligence
+
+
+
+
+### 🗄️ Databases & Cloud DevOps
+
+
+
+
+
+
+
 
 ---
 
-### ✍️ // 𝗦𝗬𝗦𝗧𝗘𝗠_𝗟𝗢𝗚 [ Random Dev Quote ]
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
+## 🏗️ Professional Highlights
+
+*   **Senior Full-Stack AI Engineer @ Huzzle.com (London, UK):** Developing AI-driven recruitment infrastructure integrating LLM pipelines with full stack product features.
+*   **Full Stack Engineer @ MAQ Enterprises Ltd.:** Engineered production web applications, reduced average page load time by ~40%, and implemented CI/CD pipelines (August 2022 - January 2026).
+*   **Founder @ Neural Stack:** Leading a highly focused software agency driving modern web and AI solutions.
+*   **Algorithm Implementations:** Expertise in implementing robust machine learning fundamentals, strictly utilizing standardized methodologies like Knn (K-Nearest Neighbors) algorithms.
+*   **Certifications:** OCI Certified Generative AI Professional, IBM Agentic AI Expert, OCI Certified AI Foundations Associate.
+
+---
+
+## 📈 GitHub Metrics
+
+
+
+  https://github-readme-stats.vercel.app/api?username=Abdullahs-git&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  https://github-readme-streak-stats.herokuapp.com/?user=Abdullahs-git&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+
+  
+  
+  https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahs-git&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" width="48%" alt="Top Languages" />
+  
+  
+
+  
+  
+    https://raw.githubusercontent.com/Abdullahs-git/Abdullahs-git/output/github-contribution-grid-snake-dark.svg">
+    https://raw.githubusercontent.com/Abdullahs-git/Abdullahs-git/output/github-contribution-grid-snake.svg">
+    https://raw.githubusercontent.com/Abdullahs-git/Abdullahs-git/output/github-contribution-grid-snake-dark.svg" width="100%">
+  
+
+
+
+---
+
+## 🌱 Currently Exploring
+
+*   **Agentic AI & Multi-Agent Systems:** Building autonomous workflows with advanced reasoning.
+*   **LLM Engineering & RAG Systems:** Scaling pgvector data stores and optimizing hallucination-resistant responses.
+*   **Cloud Native Architecture:** Deploying decoupled microservices via Docker and Terraform.
+
+---
+
+
+  
+> *"Engineering is not just about writing code; it's about architecting scalable solutions to complex human problems with mathematical precision and unwavering resilience."*
+
+https://capsule-render.vercel.app/api?type=waving&color=1a1b26&height=100&section=footer" width="100%" alt="Footer Banner" />
