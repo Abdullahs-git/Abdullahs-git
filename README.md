@@ -134,19 +134,29 @@ I am a Full Stack AI Engineer and Researcher bridging the gap between theoretica
 ### `[ 06_GITHUB_ANALYTICS_MATRIX ]`
 
 <div align="center">
-  
-  <a href="https://github.com/Abdullahs-git">
-    <img src="https://github-readme-stats.vercel.app/api?username=Abdullahs-git&theme=tokyonight&show_icons=true&hide_border=true" height="195" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Abdullahs-git">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullahs-git&theme=tokyonight&hide_border=true" height="195" alt="GitHub Streak" />
-  </a>
 
-  <br/><br/>
-  
-  <a href="https://github.com/Abdullahs-git">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahs-git&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" height="195" alt="Top Languages" />
-  </a>
+<a href="https://github.com/Abdullahs-git">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=Abdullahs-git&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"
+  />
+</a>
+
+<a href="https://github.com/Abdullahs-git">
+  <img
+    height="180"
+    src="https://streak-stats.demolab.com?user=Abdullahs-git&theme=tokyonight&hide_border=true"
+  />
+</a>
+
+<br><br>
+
+<a href="https://github.com/Abdullahs-git">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahs-git&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&count_private=true"
+  />
+</a>
 
 </div>
 
