@@ -135,12 +135,18 @@ I am a Full Stack AI Engineer and Researcher bridging the gap between theoretica
 
 <div align="center">
   
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdullahs-git&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)](https://github.com/Abdullahs-git)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdullahs-git&theme=tokyonight&hide_border=true)](https://github.com/Abdullahs-git)
+  <a href="https://github.com/Abdullahs-git">
+    <img src="https://github-readme-stats.vercel.app/api?username=Abdullahs-git&theme=tokyonight&show_icons=true&hide_border=true" height="195" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Abdullahs-git">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullahs-git&theme=tokyonight&hide_border=true" height="195" alt="GitHub Streak" />
+  </a>
 
-<br/>
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahs-git&theme=tokyonight&hide_border=true&layout=compact&langs_count=6)](https://github.com/Abdullahs-git)
+  <br/><br/>
+  
+  <a href="https://github.com/Abdullahs-git">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahs-git&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" height="195" alt="Top Languages" />
+  </a>
 
 </div>
 
