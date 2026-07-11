@@ -135,14 +135,14 @@ I am a Full Stack AI Engineer and Researcher bridging the gap between theoretica
 
 <div align="center">
 
-<!-- Core Profile Stats Grid -->
-<img height="185" src="https://github-readme-stats.vercel.app/api?username=Abdullahs-git&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahs-git&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<!-- Core Profile Stats Grid (Using Stable Mirror Provider) -->
+<img height="185" src="https://nice-readme.vercel.app/api?username=Abdullahs-git&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img height="185" src="https://nice-readme.vercel.app/api/top-langs/?username=Abdullahs-git&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 <br><br>
 
-<!-- Streak Tracker -->
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullahs-git&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<!-- Streak Tracker (Using Stable Mirror Provider) -->
+<img width="80%" src="https://nice-readme.vercel.app/streak-stats/?user=Abdullahs-git&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
