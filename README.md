@@ -135,19 +135,19 @@ I am a Full Stack AI Engineer and Researcher bridging the gap between theoretica
 
 <div align="center">
 
-<img
-height="180"
-src="https://github-readme-stats.vercel.app/api?username=Abdullahs-git&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true"/>
-
-<img
-height="180"
-src="https://streak-stats.demolab.com?user=Abdullahs-git&theme=tokyonight&hide_border=true"/>
+<!-- Trophies Section -->
+<img src="https://github-profile-trophy.vercel.app/?username=Abdullahs-git&theme=tokyonight&column=6&margin-w=15&margin-h=15&no-border=true" alt="GitHub Trophies" />
 
 <br><br>
 
-<img
-height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahs-git&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"/>
+<!-- Core Stats & Streaks Row -->
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Abdullahs-git&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img height="180" src="https://streak-stats.demolab.com?user=Abdullahs-git&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br><br>
+
+<!-- Language Analytics -->
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahs-git&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top Languages" />
 
 </div>
 
