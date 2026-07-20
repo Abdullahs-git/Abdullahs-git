@@ -134,8 +134,14 @@ I am a Full Stack AI Engineer and Researcher bridging the gap between theoretica
 ### `[ 06_GITHUB_ANALYTICS_MATRIX ]`
 
 <div align="center">
+
 <!-- Streak Tracker -->
 <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullahs-git&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br /><br />
+
+<!-- Top 3 Most Used Languages -->
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahs-git&layout=compact&langs_count=3&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=a9b1d6&bg_color=1a1b26" alt="Top 3 Languages" />
 
 </div>
 
