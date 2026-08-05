@@ -133,7 +133,7 @@
 
 | Domain | Enterprise Technologies & Frameworks |
 | :--- | :--- |
-| **Core Languages & Frameworks** | Python, TypeScript, JavaScript, Java, C++, PHP, React, Next.js |
+| **Core Languages & Frameworks** | Python, TypeScript, JavaScript, Java, C++, PHP|
 | **AI & LLM Architecture** | LangChain, LlamaIndex, OpenAI, Anthropic Claude, Hugging Face, RAG Pipelines, pgvector, Pinecone |
 | **Machine Learning & Vision** | PyTorch, TensorFlow, Keras, Scikit Learn, MLflow, Ray, CUDA, Vision Transformers, CLIP, Whisper, XGBoost, Kronos AI, PEFT |
 | **Frontend & Mobile Design** | Next.js, React, Angular, Vue.js, Svelte, React Native, Expo, Redux, Webpack, Vite, Tailwind CSS, Material UI, HTML, CSS |
