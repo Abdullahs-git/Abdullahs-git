@@ -137,31 +137,31 @@ const abdullah = {
 
 #### Core Languages
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=python,ts,js,java,cpp,php&theme=dark" height="48" />
 
 #### AI & LLM Systems
 
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/LlamaIndex-6B5CE7?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Anthropic_Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/RAG_Pipelines-00D9FF?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" height="48" /> <img src="https://cdn.simpleicons.org/langchain/white" height="48" title="LangChain" /> <img src="https://cdn.simpleicons.org/openai/white" height="48" title="OpenAI" /> <img src="https://cdn.simpleicons.org/anthropic/white" height="48" title="Anthropic" /> <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="48" title="HuggingFace" /> <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="48" title="pgvector" /> <img src="https://cdn.simpleicons.org/pinecone/white" height="48" title="Pinecone" />
 
 #### Machine Learning & Vision
 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" /> <img src="https://img.shields.io/badge/Ray-028CF0?style=for-the-badge&logo=ray&logoColor=white" /> <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" /> <img src="https://img.shields.io/badge/CLIP-412991?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/PEFT-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn&theme=dark" height="48" /> <img src="https://cdn.simpleicons.org/keras/D00000" height="48" title="Keras" /> <img src="https://cdn.simpleicons.org/mlflow/0194E2" height="48" title="MLflow" /> <img src="https://cdn.simpleicons.org/ray/028CF0" height="48" title="Ray" /> <img src="https://cdn.simpleicons.org/nvidia/76B900" height="48" title="CUDA" /> <img src="https://cdn.simpleicons.org/openai/white" height="48" title="CLIP/Whisper" /> <img src="https://cdn.simpleicons.org/xgboost/189FDD" height="48" title="XGBoost" />
 
 #### Frontend & Mobile
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" /> <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" /> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,angular,vue,svelte,tailwind,materialui&theme=dark" height="48" /> <img src="https://cdn.simpleicons.org/react/61DAFB" height="48" title="React Native" /> <img src="https://cdn.simpleicons.org/expo/white" height="48" title="Expo" /> <img src="https://cdn.simpleicons.org/redux/764ABC" height="48" title="Redux" />
 
 #### Backend & APIs
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" /> <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" /> <img src="https://img.shields.io/badge/REST_API-6C63FF?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,django,spring,prisma,graphql&theme=dark" height="48" />
 
 #### Databases
 
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white" /> <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" /> <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,cassandra,elasticsearch,dynamodb,supabase&theme=dark" height="48" />
 
 #### DevOps & Cloud
 
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" /> <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" /> <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" /> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" /> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" /> <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" /> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" /> <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" /> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,jenkins,github,gitlab,prometheus,grafana,nginx,kafka,cloudflare&theme=dark" height="48" />
 
 </div>
 
@@ -183,7 +183,7 @@ const abdullah = {
 
 Full-scale fashion e-commerce platform built from the ground up with server-side rendering, real-time inventory management, and a conversion-optimized storefront. Architected with a headless backend pattern for maximum scalability and API flexibility.
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" /> <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=nextjs,ts,supabase,prisma,graphql,redis,docker,tailwind&theme=dark" height="36" />
 
 | Metric | Result |
 |:--|:--|
@@ -206,7 +206,7 @@ Full-scale fashion e-commerce platform built from the ground up with server-side
 
 High-performance western clothing e-commerce platform with edge-optimized delivery, intelligent product recommendation engine, and real-time inventory sync. Built on a modern JAMstack architecture with Python-powered backend services for order processing, payment integration, and analytics dashboards.
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=nextjs,python,redis,cloudflare,tailwind,postgres&theme=dark" height="36" /> <img src="https://cdn.simpleicons.org/stripe/635BFF" height="36" title="Stripe" /> <img src="https://cdn.simpleicons.org/vercel/white" height="36" title="Vercel" />
 
 | Metric | Result |
 |:--|:--|
@@ -229,7 +229,7 @@ High-performance western clothing e-commerce platform with edge-optimized delive
 
 AI-driven document analysis and transformation platform. Users upload PDFs and receive intelligent summaries, data extraction, format conversion, and document Q&A through LLM-powered processing pipelines with chunked streaming for real-time feedback.
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=nextjs,fastapi,tailwind&theme=dark" height="36" /> <img src="https://cdn.simpleicons.org/openai/white" height="36" title="OpenAI" /> <img src="https://cdn.simpleicons.org/langchain/white" height="36" title="LangChain" /> <img src="https://cdn.simpleicons.org/vercel/white" height="36" title="Vercel" />
 
 | Metric | Result |
 |:--|:--|
@@ -251,7 +251,7 @@ AI-driven document analysis and transformation platform. Users upload PDFs and r
 
 Production-grade automotive listing and marketplace platform with faceted search, dynamic filtering, media-rich vehicle galleries, and a secure lead capture pipeline with CRM integration for dealer management.
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=nextjs,ts,nodejs,postgres,tailwind&theme=dark" height="36" /> <img src="https://cdn.simpleicons.org/vercel/white" height="36" title="Vercel" />
 
 | Metric | Result |
 |:--|:--|
@@ -272,7 +272,7 @@ Production-grade automotive listing and marketplace platform with faceted search
 
 Multi-tenant conversational AI platform enabling businesses to deploy RAG-grounded chatbots with custom knowledge bases. Features agentic workflows with tool-calling capabilities, full Stripe subscription lifecycle, usage-based billing, and admin analytics dashboards.
 
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=fastapi,nextjs,redis,postgres,docker&theme=dark" height="36" /> <img src="https://cdn.simpleicons.org/langchain/white" height="36" title="LangChain" /> <img src="https://cdn.simpleicons.org/openai/white" height="36" title="GPT-4" /> <img src="https://cdn.simpleicons.org/stripe/635BFF" height="36" title="Stripe" />
 
 | Metric | Result |
 |:--|:--|
@@ -294,7 +294,7 @@ Multi-tenant conversational AI platform enabling businesses to deploy RAG-ground
 
 Domain-specific clinical AI assistant providing hallucination-resistant medical guidance for nursing professionals. Built with a specialized RAG pipeline grounded in verified clinical literature, featuring RBAC access controls and full audit logging for healthcare compliance.
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=react,fastapi,postgres,docker&theme=dark" height="36" /> <img src="https://cdn.simpleicons.org/langchain/white" height="36" title="LangChain" /> <img src="https://cdn.simpleicons.org/openai/white" height="36" title="OpenAI" />
 
 | Metric | Result |
 |:--|:--|
@@ -315,7 +315,7 @@ Domain-specific clinical AI assistant providing hallucination-resistant medical 
 
 Mobile-first forex trading companion with ML-powered price prediction. Uses a fine-tuned XGBoost + Kronos AI ensemble trained on historical price data, technical indicators, and sentiment signals, paired with an in-app educational curriculum for beginner traders.
 
-<img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/XGBoost-189FDD?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres&theme=dark" height="36" /> <img src="https://cdn.simpleicons.org/react/61DAFB" height="36" title="React Native" /> <img src="https://cdn.simpleicons.org/xgboost/189FDD" height="36" title="XGBoost" />
 
 | Metric | Result |
 |:--|:--|
