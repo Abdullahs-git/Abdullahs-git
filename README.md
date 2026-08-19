@@ -141,15 +141,15 @@ const abdullah = {
 
 #### AI & LLM Systems
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" height="48" /> <img src="https://cdn.simpleicons.org/langchain/white" height="48" title="LangChain" /> <img src="https://cdn.simpleicons.org/openai/white" height="48" title="OpenAI" /> <img src="https://cdn.simpleicons.org/anthropic/white" height="48" title="Anthropic" /> <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="48" title="HuggingFace" /> <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="48" title="pgvector" /> <img src="https://cdn.simpleicons.org/pinecone/white" height="48" title="Pinecone" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" height="48" /> <img src="https://cdn.simpleicons.org/langchain/FFFFFF" height="48" title="LangChain" /> <img src="https://cdn.simpleicons.org/openai/FFFFFF" height="48" title="OpenAI" /> <img src="https://cdn.simpleicons.org/anthropic/FFFFFF" height="48" title="Anthropic" /> <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="48" title="HuggingFace" /> <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="48" title="pgvector" /> <img src="https://cdn.simpleicons.org/pinecone/FFFFFF" height="48" title="Pinecone" />
 
 #### Machine Learning & Vision
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn&theme=dark" height="48" /> <img src="https://cdn.simpleicons.org/keras/D00000" height="48" title="Keras" /> <img src="https://cdn.simpleicons.org/mlflow/0194E2" height="48" title="MLflow" /> <img src="https://cdn.simpleicons.org/ray/028CF0" height="48" title="Ray" /> <img src="https://cdn.simpleicons.org/nvidia/76B900" height="48" title="CUDA" /> <img src="https://cdn.simpleicons.org/openai/white" height="48" title="CLIP/Whisper" /> <img src="https://cdn.simpleicons.org/xgboost/189FDD" height="48" title="XGBoost" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn&theme=dark" height="48" /> <img src="https://cdn.simpleicons.org/keras/D00000" height="48" title="Keras" /> <img src="https://cdn.simpleicons.org/mlflow/0194E2" height="48" title="MLflow" /> <img src="https://cdn.simpleicons.org/ray/028CF0" height="48" title="Ray" /> <img src="https://cdn.simpleicons.org/nvidia/76B900" height="48" title="CUDA" /> <img src="https://cdn.simpleicons.org/openai/FFFFFF" height="48" title="CLIP/Whisper" /> <img src="https://cdn.simpleicons.org/xgboost/189FDD" height="48" title="XGBoost" />
 
 #### Frontend & Mobile
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,angular,vue,svelte,tailwind,materialui&theme=dark" height="48" /> <img src="https://cdn.simpleicons.org/react/61DAFB" height="48" title="React Native" /> <img src="https://cdn.simpleicons.org/expo/white" height="48" title="Expo" /> <img src="https://cdn.simpleicons.org/redux/764ABC" height="48" title="Redux" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,angular,vue,svelte,tailwind,materialui&theme=dark" height="48" /> <img src="https://cdn.simpleicons.org/react/61DAFB" height="48" title="React Native" /> <img src="https://cdn.simpleicons.org/expo/FFFFFF" height="48" title="Expo" /> <img src="https://cdn.simpleicons.org/redux/764ABC" height="48" title="Redux" />
 
 #### Backend & APIs
 
@@ -206,7 +206,7 @@ Full-scale fashion e-commerce platform built from the ground up with server-side
 
 High-performance western clothing e-commerce platform with edge-optimized delivery, intelligent product recommendation engine, and real-time inventory sync. Built on a modern JAMstack architecture with Python-powered backend services for order processing, payment integration, and analytics dashboards.
 
-<img src="https://skillicons.dev/icons?i=nextjs,python,redis,cloudflare,tailwind,postgres&theme=dark" height="36" /> <img src="https://cdn.simpleicons.org/stripe/635BFF" height="36" title="Stripe" /> <img src="https://cdn.simpleicons.org/vercel/white" height="36" title="Vercel" />
+<img src="https://skillicons.dev/icons?i=nextjs,python,redis,cloudflare,tailwind,postgres&theme=dark" height="36" /> <img src="https://cdn.simpleicons.org/stripe/635BFF" height="36" title="Stripe" /> <img src="https://cdn.simpleicons.org/vercel/FFFFFF" height="36" title="Vercel" />
 
 | Metric | Result |
 |:--|:--|
@@ -229,7 +229,7 @@ High-performance western clothing e-commerce platform with edge-optimized delive
 
 AI-driven document analysis and transformation platform. Users upload PDFs and receive intelligent summaries, data extraction, format conversion, and document Q&A through LLM-powered processing pipelines with chunked streaming for real-time feedback.
 
-<img src="https://skillicons.dev/icons?i=nextjs,fastapi,tailwind&theme=dark" height="36" /> <img src="https://cdn.simpleicons.org/openai/white" height="36" title="OpenAI" /> <img src="https://cdn.simpleicons.org/langchain/white" height="36" title="LangChain" /> <img src="https://cdn.simpleicons.org/vercel/white" height="36" title="Vercel" />
+<img src="https://skillicons.dev/icons?i=nextjs,fastapi,tailwind&theme=dark" height="36" /> <img src="https://cdn.simpleicons.org/openai/FFFFFF" height="36" title="OpenAI" /> <img src="https://cdn.simpleicons.org/langchain/FFFFFF" height="36" title="LangChain" /> <img src="https://cdn.simpleicons.org/vercel/FFFFFF" height="36" title="Vercel" />
 
 | Metric | Result |
 |:--|:--|
@@ -251,7 +251,7 @@ AI-driven document analysis and transformation platform. Users upload PDFs and r
 
 Production-grade automotive listing and marketplace platform with faceted search, dynamic filtering, media-rich vehicle galleries, and a secure lead capture pipeline with CRM integration for dealer management.
 
-<img src="https://skillicons.dev/icons?i=nextjs,ts,nodejs,postgres,tailwind&theme=dark" height="36" /> <img src="https://cdn.simpleicons.org/vercel/white" height="36" title="Vercel" />
+<img src="https://skillicons.dev/icons?i=nextjs,ts,nodejs,postgres,tailwind&theme=dark" height="36" /> <img src="https://cdn.simpleicons.org/vercel/FFFFFF" height="36" title="Vercel" />
 
 | Metric | Result |
 |:--|:--|
@@ -272,7 +272,7 @@ Production-grade automotive listing and marketplace platform with faceted search
 
 Multi-tenant conversational AI platform enabling businesses to deploy RAG-grounded chatbots with custom knowledge bases. Features agentic workflows with tool-calling capabilities, full Stripe subscription lifecycle, usage-based billing, and admin analytics dashboards.
 
-<img src="https://skillicons.dev/icons?i=fastapi,nextjs,redis,postgres,docker&theme=dark" height="36" /> <img src="https://cdn.simpleicons.org/langchain/white" height="36" title="LangChain" /> <img src="https://cdn.simpleicons.org/openai/white" height="36" title="GPT-4" /> <img src="https://cdn.simpleicons.org/stripe/635BFF" height="36" title="Stripe" />
+<img src="https://skillicons.dev/icons?i=fastapi,nextjs,redis,postgres,docker&theme=dark" height="36" /> <img src="https://cdn.simpleicons.org/langchain/FFFFFF" height="36" title="LangChain" /> <img src="https://cdn.simpleicons.org/openai/FFFFFF" height="36" title="GPT-4" /> <img src="https://cdn.simpleicons.org/stripe/635BFF" height="36" title="Stripe" />
 
 | Metric | Result |
 |:--|:--|
@@ -294,7 +294,7 @@ Multi-tenant conversational AI platform enabling businesses to deploy RAG-ground
 
 Domain-specific clinical AI assistant providing hallucination-resistant medical guidance for nursing professionals. Built with a specialized RAG pipeline grounded in verified clinical literature, featuring RBAC access controls and full audit logging for healthcare compliance.
 
-<img src="https://skillicons.dev/icons?i=react,fastapi,postgres,docker&theme=dark" height="36" /> <img src="https://cdn.simpleicons.org/langchain/white" height="36" title="LangChain" /> <img src="https://cdn.simpleicons.org/openai/white" height="36" title="OpenAI" />
+<img src="https://skillicons.dev/icons?i=react,fastapi,postgres,docker&theme=dark" height="36" /> <img src="https://cdn.simpleicons.org/langchain/FFFFFF" height="36" title="LangChain" /> <img src="https://cdn.simpleicons.org/openai/FFFFFF" height="36" title="OpenAI" />
 
 | Metric | Result |
 |:--|:--|
