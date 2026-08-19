@@ -1,23 +1,23 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
-     🔮 HERO SECTION — Waving Gradient Header + Animated Typing
+     HERO SECTION — Animated Waving Gradient Header
      ═══════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,15:1a1a2e,40:6C63FF,70:00D9FF,100:0D1117&height=280&section=header&text=MUHAMMAD%20ABDULLAH%20BUTT&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=Senior%20Full%20Stack%20AI%20Engineer%20%E2%80%A2%20Published%20AI%20Researcher%20%E2%80%A2%20Founder&descAlignY=52&descSize=16&descColor=C9D1D9" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,15:1a1a2e,40:6C63FF,70:00D9FF,100:0D1117&height=280&section=header&text=MUHAMMAD%20ABDULLAH%20BUTT&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=32&desc=Senior%20Full%20Stack%20AI%20Engineer%20%7C%20Published%20AI%20Researcher%20%7C%20Founder&descAlignY=52&descSize=16&descColor=C9D1D9" width="100%" alt="Header" />
 
 <br/>
 
 <a href="https://github.com/Abdullahs-git">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=900&height=45&lines=%E2%9A%A1+Building+AI+systems+that+ship+to+production;%F0%9F%94%AC+Published+at+FLINS+ISKE+2026+(Springer+Nature);%F0%9F%8E%AF+99.34%25+accuracy+%40+0.566M+params+%E2%80%94+99.6%25+param+reduction;%F0%9F%8F%97%EF%B8%8F+Architecting+scalable+platforms+%40+Huzzle.com;%F0%9F%9A%80+Open+to+Senior+%2F+Staff+AI+Engineering+roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=900&height=45&lines=Building+AI+systems+that+ship+to+production;Published+at+FLINS+ISKE+2026+(Springer+Nature);99.34%25+accuracy+%40+0.566M+params+--+99.6%25+param+reduction;Architecting+scalable+platforms+%40+Huzzle.com;Open+to+Senior+%2F+Staff+AI+Engineering+roles" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- Social Badges — Neon Gradient Style -->
-<a href="mailto:abdullahbutt3579@gmail.com"><img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F_Email-abdullahbutt3579%40gmail.com-6C63FF?style=for-the-badge&logoColor=white" alt="Email" /></a>&nbsp;
-<a href="https://linkedin.com/in/muhammadabdullahbutt"><img src="https://img.shields.io/badge/%F0%9F%94%97_LinkedIn-Muhammad_Abdullah_Butt-00D9FF?style=for-the-badge&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://github.com/Abdullahs-git"><img src="https://img.shields.io/badge/%F0%9F%92%BB_GitHub-Abdullahs--git-FF6B6B?style=for-the-badge&logoColor=white" alt="GitHub" /></a>
+<!-- Social Badges -->
+<a href="mailto:abdullahbutt3579@gmail.com"><img src="https://img.shields.io/badge/Email-abdullahbutt3579%40gmail.com-6C63FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
+<a href="https://linkedin.com/in/muhammadabdullahbutt"><img src="https://img.shields.io/badge/LinkedIn-Muhammad_Abdullah_Butt-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://github.com/Abdullahs-git"><img src="https://img.shields.io/badge/GitHub-Abdullahs--git-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 <br/><br/>
 
@@ -28,12 +28,10 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
-     👤 ABOUT SECTION
+     ABOUT SECTION
      ═══════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=1&section=header" width="100%" />
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="28" /> &nbsp;About Me
+## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="28" /> &nbsp;About Me
 
 <table>
 <tr>
@@ -44,7 +42,7 @@ const abdullah = {
     role:        "Senior Full Stack AI Engineer",
     company:     "Huzzle.com (London, UK — Remote)",
     founder:     "Neural Stack — AI-native Software Agency",
-    location:    "Gujranwala, Pakistan 🇵🇰",
+    location:    "Gujranwala, Pakistan",
     published:   "FLINS ISKE 2026 (Springer Nature)",
     education:   "BSc Computer Science — GIFT University",
     languages:   ["English (Bilingual)", "Urdu (Native)"],
@@ -55,14 +53,14 @@ const abdullah = {
 </td>
 <td width="320" align="center">
 
-**🏆 Key Highlights**
+**Key Highlights**
 
-`🔬 Published Researcher`
-`⚡ 99.34% Detection Accuracy`
-`📉 99.6% Parameter Reduction`
-`🚀 Multiple Live Platforms`
-`🏗️ Full Stack + AI + DevOps`
-`🎓 BS Computer Science`
+`Published Researcher`
+`99.34% Detection Accuracy`
+`99.6% Parameter Reduction`
+`Multiple Live Platforms`
+`Full Stack + AI + DevOps`
+`BS Computer Science`
 
 </td>
 </tr>
@@ -73,14 +71,14 @@ const abdullah = {
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
-     📄 RESEARCH & PUBLICATIONS
+     RESEARCH & PUBLICATIONS
      ═══════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" width="28" /> &nbsp;Research & Publications
+## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis/Emojis/Objects/Scroll.png" width="28" /> &nbsp;Research & Publications
 
 <div align="center">
 
-### 🏅 Featured Publication
+### Featured Publication
 
 </div>
 
@@ -90,7 +88,7 @@ const abdullah = {
 
 **MAPF Lite: A Parameter-Efficient Multimodal Framework for High-Fidelity Deepfake Detection**
 
-`📚 FLINS ISKE 2026` &nbsp; `📖 Springer Nature Proceedings` &nbsp; `👤 Sole Architect & Lead Researcher`
+`FLINS ISKE 2026` &nbsp; `Springer Nature Proceedings` &nbsp; `Sole Architect & Lead Researcher`
 
 </td>
 </tr>
@@ -100,12 +98,12 @@ const abdullah = {
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Metric &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Result &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | :---: | :---: |
-| **🎯 Accuracy (FakeAVCeleb)** | **99.34%** |
-| **📊 AUC (FakeAVCeleb)** | **99.84%** |
-| **🔄 Cross-Dataset (Zero-Shot)** | **99.40%** on DeepfakeTIMIT |
-| **⚙️ Trainable Parameters** | **0.566M** (reduced by 99.6%) |
-| **⚡ Inference Speed** | **4.7x** real-time |
-| **💾 Peak Memory** | **1.1 GB** — edge & mobile deployable |
+| **Accuracy (FakeAVCeleb)** | **99.34%** |
+| **AUC (FakeAVCeleb)** | **99.84%** |
+| **Cross-Dataset (Zero-Shot)** | **99.40%** on DeepfakeTIMIT |
+| **Trainable Parameters** | **0.566M** (reduced by 99.6%) |
+| **Inference Speed** | **4.7x** real-time |
+| **Peak Memory** | **1.1 GB** — edge & mobile deployable |
 
 </div>
 
@@ -119,7 +117,7 @@ const abdullah = {
 <tr>
 <td width="100%">
 
-&nbsp;&nbsp;📝 &nbsp;**Deepfake Detection in the Multimodal Era: A Systematic Review** &nbsp;&nbsp; <img src="https://img.shields.io/badge/Status-In_Preparation-F7DF1E?style=flat-square" alt="In Preparation" />
+&nbsp;&nbsp;<img src="https://img.shields.io/badge/Status-In_Preparation-F7DF1E?style=flat-square" alt="In Preparation" /> &nbsp;**Deepfake Detection in the Multimodal Era: A Systematic Review**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lead author. Surveys multimodal deepfake detection techniques, parameter-efficient architectures, and benchmark datasets.
 
@@ -130,162 +128,256 @@ const abdullah = {
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
-     🛠️ TECH STACK — Organized Bento Grid
+     TECH STACK — Integrated Badges (Logo + Name Together)
      ═══════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> &nbsp;Tech Stack
+## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> &nbsp;Tech Stack
 
 <div align="center">
 
-| Category | Technologies |
-| :--- | :--- |
-| **💻 Core Languages** | <img src="https://skillicons.dev/icons?i=python,ts,js,java,cpp,php&theme=dark" height="36" /> |
-| **🤖 AI & LLM Systems** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" height="36" /> &nbsp; `LangChain` `LlamaIndex` `OpenAI` `Claude` `HuggingFace` `RAG` `pgvector` `Pinecone` |
-| **🧠 ML & Vision** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" height="36" /> &nbsp; `Keras` `Scikit-Learn` `MLflow` `Ray` `CUDA` `ViT` `CLIP` `Whisper` `XGBoost` `PEFT` |
-| **🎨 Frontend & Mobile** | <img src="https://skillicons.dev/icons?i=nextjs,react,angular,vue,svelte,tailwind,materialui&theme=dark" height="36" /> &nbsp; `React Native` `Expo` `Redux` |
-| **⚙️ Backend & APIs** | <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,django,spring&theme=dark" height="36" /> &nbsp; `Prisma` `GraphQL` `REST` `gRPC` |
-| **🗄️ Databases** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,cassandra,elasticsearch,dynamodb,supabase&theme=dark" height="36" /> |
-| **☁️ DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,jenkins,github,gitlab,ansible,prometheus,grafana,nginx,kafka,rabbitmq&theme=dark" height="36" /> |
+#### Core Languages
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+
+#### AI & LLM Systems
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/LlamaIndex-6B5CE7?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Anthropic_Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/RAG_Pipelines-00D9FF?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white" />
+
+#### Machine Learning & Vision
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" /> <img src="https://img.shields.io/badge/Ray-028CF0?style=for-the-badge&logo=ray&logoColor=white" /> <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" /> <img src="https://img.shields.io/badge/CLIP-412991?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/PEFT-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+
+#### Frontend & Mobile
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" /> <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" /> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+
+#### Backend & APIs
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" /> <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" /> <img src="https://img.shields.io/badge/REST_API-6C63FF?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logoColor=white" />
+
+#### Databases
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white" /> <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" /> <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+
+#### DevOps & Cloud
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" /> <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" /> <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" /> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" /> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" /> <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" /> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" /> <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" /> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
 
 </div>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
-     🚀 PROJECTS — Premium Cards
+     FEATURED PROJECTS — Premium Detailed Cards
      ═══════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28" /> &nbsp;Featured Projects
+## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis/Emojis/Travel%20and%20places/Rocket.png" width="28" /> &nbsp;Featured Projects
 
-<div align="center">
-
----
-
+<!-- PROJECT 1: Estabraq -->
 <table>
 <tr>
-<td width="50%" valign="top">
+<td>
 
-### 🟢 Estabraq — Fashion E-Commerce
-**[🔗 estabraq.pk](https://estabraq.pk)**
+### <img src="https://img.shields.io/badge/-LIVE-2EA043?style=flat-square" /> &nbsp; Estabraq — Fashion E-Commerce Platform
+**<a href="https://estabraq.pk">estabraq.pk</a>**
 
-| | |
+Full-scale fashion e-commerce platform built from the ground up with server-side rendering, real-time inventory management, and a conversion-optimized storefront. Architected with a headless backend pattern for maximum scalability and API flexibility.
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" /> <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+
+| Metric | Result |
 |:--|:--|
-| **Stack** | Next.js · TypeScript · Supabase · Prisma · GraphQL · Redis |
-| **Impact** | Sub-2s loads · 30% latency cut via GraphQL + Redis · 25% faster releases via Docker CI/CD |
-| **Status** | React Native companion app in progress |
-
-</td>
-<td width="50%" valign="top">
-
-### 🟢 MyPDFMate — AI PDF SaaS
-**[🔗 mypdfmate.com](https://mypdfmate.com)**
-
-| | |
-|:--|:--|
-| **Stack** | Next.js · FastAPI · AI Processing |
-| **Impact** | AI-driven document analysis & transformation pipelines with conversion-optimized UI |
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🟢 Khushi Motors — Automotive Marketplace
-**[🔗 khushimotors.com](https://khushimotors.com)**
-
-| | |
-|:--|:--|
-| **Stack** | Next.js · Full Stack |
-| **Impact** | Production-grade search · Dynamic filtering · Secure lead capture |
-
-</td>
-<td width="50%" valign="top">
-
-### 🔵 DeployGenius — AI Chatbot SaaS
-| | |
-|:--|:--|
-| **Stack** | FastAPI · LangChain · GPT-4 · Next.js 14 · Redis · PostgreSQL · Stripe |
-| **Impact** | Multi-tenant RAG agentic workflows · Full Stripe lifecycle · 25% API cost reduction via token tuning |
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔵 LingumedAI — Clinical AI for Nurses
-| | |
-|:--|:--|
-| **Stack** | React · FastAPI · LangChain · RAG · pgvector · OpenAI |
-| **Impact** | Domain-specific RAG for hallucination-resistant clinical guidance · RBAC + audit logging for compliance |
-
-</td>
-<td width="50%" valign="top">
-
-### 🔵 ForexAI — Mobile Trading & Prediction
-| | |
-|:--|:--|
-| **Stack** | React Native · XGBoost · Kronos AI · Python |
-| **Impact** | Fine-tuned XGBoost + Kronos AI ensemble on historical price data · In-app learning curriculum |
+| **Page Load** | Sub-2 second load times via SSR + edge caching |
+| **API Latency** | 30% reduction via GraphQL query batching + Redis response caching |
+| **Release Velocity** | 25% faster release cycles via Docker-based CI/CD pipeline |
+| **Status** | React Native companion app in active development |
 
 </td>
 </tr>
 </table>
 
----
+<!-- PROJECT 2: MORK.PK -->
+<table>
+<tr>
+<td>
 
-</div>
+### <img src="https://img.shields.io/badge/-LIVE-2EA043?style=flat-square" /> &nbsp; MORK — Western Clothing E-Commerce Brand
+**<a href="https://mork.pk">mork.pk</a>**
+
+High-performance western clothing e-commerce platform with edge-optimized delivery, intelligent product recommendation engine, and real-time inventory sync. Built on a modern JAMstack architecture with Python-powered backend services for order processing, payment integration, and analytics dashboards.
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+
+| Metric | Result |
+|:--|:--|
+| **Performance** | Edge-cached via Cloudflare CDN with global sub-second TTFB |
+| **Caching** | Redis-backed session and cart management for high-concurrency checkout |
+| **Backend** | Python microservices for order lifecycle, payment webhooks, and inventory sync |
+| **SEO** | Server-rendered product pages with structured data for Google Shopping integration |
+
+</td>
+</tr>
+</table>
+
+<!-- PROJECT 3: MyPDFMate -->
+<table>
+<tr>
+<td>
+
+### <img src="https://img.shields.io/badge/-LIVE-2EA043?style=flat-square" /> &nbsp; MyPDFMate — AI-Powered Document SaaS
+**<a href="https://mypdfmate.com">mypdfmate.com</a>**
+
+AI-driven document analysis and transformation platform. Users upload PDFs and receive intelligent summaries, data extraction, format conversion, and document Q&A through LLM-powered processing pipelines with chunked streaming for real-time feedback.
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+
+| Metric | Result |
+|:--|:--|
+| **Processing** | Async document pipeline with chunked LLM streaming for real-time results |
+| **UI/UX** | Conversion-optimized interface with drag-and-drop upload and progress tracking |
+| **Extraction** | Structured data extraction from invoices, contracts, and academic papers |
+
+</td>
+</tr>
+</table>
+
+<!-- PROJECT 4: Khushi Motors -->
+<table>
+<tr>
+<td>
+
+### <img src="https://img.shields.io/badge/-LIVE-2EA043?style=flat-square" /> &nbsp; Khushi Motors — Automotive Marketplace
+**<a href="https://khushimotors.com">khushimotors.com</a>**
+
+Production-grade automotive listing and marketplace platform with faceted search, dynamic filtering, media-rich vehicle galleries, and a secure lead capture pipeline with CRM integration for dealer management.
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+
+| Metric | Result |
+|:--|:--|
+| **Search** | Faceted search with multi-parameter filtering (make, model, year, price range) |
+| **Media** | Optimized image galleries with lazy loading and responsive breakpoints |
+| **Leads** | Secure lead capture with email notifications and dealer dashboard |
+
+</td>
+</tr>
+</table>
+
+<!-- PROJECT 5: DeployGenius -->
+<table>
+<tr>
+<td>
+
+### <img src="https://img.shields.io/badge/-IN_DEVELOPMENT-1F6FEB?style=flat-square" /> &nbsp; DeployGenius — AI Chatbot SaaS Platform
+
+Multi-tenant conversational AI platform enabling businesses to deploy RAG-grounded chatbots with custom knowledge bases. Features agentic workflows with tool-calling capabilities, full Stripe subscription lifecycle, usage-based billing, and admin analytics dashboards.
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+
+| Metric | Result |
+|:--|:--|
+| **Architecture** | Multi-tenant RAG with per-tenant vector stores and namespace isolation |
+| **Agents** | Agentic workflows with dynamic tool selection and conversation memory |
+| **Billing** | Full Stripe lifecycle -- subscriptions, metered usage, invoicing |
+| **Cost** | 25% API cost reduction via intelligent token budgeting and prompt caching |
+
+</td>
+</tr>
+</table>
+
+<!-- PROJECT 6: LingumedAI -->
+<table>
+<tr>
+<td>
+
+### <img src="https://img.shields.io/badge/-IN_DEVELOPMENT-1F6FEB?style=flat-square" /> &nbsp; LingumedAI — Clinical AI Assistant for Nurses
+
+Domain-specific clinical AI assistant providing hallucination-resistant medical guidance for nursing professionals. Built with a specialized RAG pipeline grounded in verified clinical literature, featuring RBAC access controls and full audit logging for healthcare compliance.
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+
+| Metric | Result |
+|:--|:--|
+| **RAG Pipeline** | Domain-specific retrieval with clinical literature chunking and re-ranking |
+| **Safety** | Hallucination-resistant output with citation linking and confidence scoring |
+| **Compliance** | Role-based access control (RBAC) + immutable audit logging |
+
+</td>
+</tr>
+</table>
+
+<!-- PROJECT 7: ForexAI -->
+<table>
+<tr>
+<td>
+
+### <img src="https://img.shields.io/badge/-IN_DEVELOPMENT-1F6FEB?style=flat-square" /> &nbsp; ForexAI — Mobile Trading & Prediction App
+
+Mobile-first forex trading companion with ML-powered price prediction. Uses a fine-tuned XGBoost + Kronos AI ensemble trained on historical price data, technical indicators, and sentiment signals, paired with an in-app educational curriculum for beginner traders.
+
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/XGBoost-189FDD?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+
+| Metric | Result |
+|:--|:--|
+| **ML Engine** | XGBoost + Kronos AI ensemble with multi-timeframe feature engineering |
+| **Data** | Real-time price feeds + historical OHLCV data with technical indicator computation |
+| **Education** | In-app learning curriculum with interactive trading simulations |
+
+</td>
+</tr>
+</table>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
-     💼 EXPERIENCE — Timeline Style
+     EXPERIENCE — Timeline Style
      ═══════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="28" /> &nbsp;Experience
+## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis/Emojis/Objects/Briefcase.png" width="28" /> &nbsp;Experience
 
 <table>
 <tr>
 <td width="100%">
 
-### <img src="https://img.shields.io/badge/Mar_2026_–_Present-6C63FF?style=flat-square" /> &nbsp; Senior Full Stack AI Engineer — **Huzzle.com** *(London, UK — Remote)*
+### <img src="https://img.shields.io/badge/Mar_2026_--_Present-6C63FF?style=flat-square" /> &nbsp; Senior Full Stack AI Engineer — **Huzzle.com** *(London, UK — Remote)*
 Building scalable AI-driven recruitment infrastructure, integrating LLM pipelines with frontend product features for a high-traffic B2C platform.
 
-`Next.js` `LangChain` `LLM Pipelines` `TypeScript`
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/LLM_Pipelines-6C63FF?style=flat-square&logoColor=white" />
 
 ---
 
-### <img src="https://img.shields.io/badge/2026_–_Present-00D9FF?style=flat-square" /> &nbsp; Founder — **Neural Stack**
+### <img src="https://img.shields.io/badge/2026_--_Present-00D9FF?style=flat-square" /> &nbsp; Founder — **Neural Stack**
 Directing technical strategy, enterprise architecture, and system design for an AI-native software engineering agency.
 
-`Technical Leadership` `System Design` `AI Product Strategy`
+<img src="https://img.shields.io/badge/Technical_Leadership-6C63FF?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/System_Design-00D9FF?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/AI_Product_Strategy-FF6B6B?style=flat-square&logoColor=white" />
 
 ---
 
-### <img src="https://img.shields.io/badge/2025_–_May_2026-6C63FF?style=flat-square" /> &nbsp; Full Stack Developer — **Estabraq (Fashion Brand)** *(Pakistan)*
+### <img src="https://img.shields.io/badge/2025_--_May_2026-6C63FF?style=flat-square" /> &nbsp; Full Stack Developer — **Estabraq (Fashion Brand)** *(Pakistan)*
 - Architected live e-commerce platform with Next.js App Router, Prisma, and Supabase
 - Integrated GraphQL + Redis caching — **30% latency reduction**
 - Automated Docker CI/CD — **25% faster releases**
 
-`Next.js` `Prisma` `Supabase` `GraphQL` `Redis`
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
 
 ---
 
-### <img src="https://img.shields.io/badge/2024_–_2026-00D9FF?style=flat-square" /> &nbsp; AI Researcher — **GIFT University** *(Gujranwala, Pakistan)*
+### <img src="https://img.shields.io/badge/2024_--_2026-00D9FF?style=flat-square" /> &nbsp; AI Researcher — **GIFT University** *(Gujranwala, Pakistan)*
 - Designed MAPF Lite — published in Springer Nature proceedings
 - Reduced trainable parameters **99.6%** via PEFT while maintaining SOTA accuracy
 - Achieved **30% detection latency reduction** via lightweight attention for edge deployment
 
-`PyTorch` `PEFT` `CLIP` `Whisper`
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/PEFT-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/CLIP-412991?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white" />
 
 ---
 
-### <img src="https://img.shields.io/badge/Jan_2023_–_Feb_2026-6C63FF?style=flat-square" /> &nbsp; Full Stack Engineer — **MAQ Enterprises Ltd.** *(Rawalpindi, Pakistan)*
+### <img src="https://img.shields.io/badge/Jan_2023_--_Feb_2026-6C63FF?style=flat-square" /> &nbsp; Full Stack Engineer — **MAQ Enterprises Ltd.** *(Rawalpindi, Pakistan)*
 - Reduced page load time **40%** via SSR optimization and code splitting
 - Improved data retrieval speed **35%** via PostgreSQL/MongoDB schema optimization
 - Cut release cycle time **30%** with Jenkins + Docker CI/CD
 - Reduced production bugs **25%** using Cypress/Jest
 
-`PostgreSQL` `MongoDB` `Jenkins` `Docker` `Terraform`
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
 
 </td>
 </tr>
@@ -294,10 +386,10 @@ Directing technical strategy, enterprise architecture, and system design for an 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
-     📊 GITHUB ANALYTICS DASHBOARD
+     GITHUB ANALYTICS DASHBOARD
      ═══════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> &nbsp;GitHub Analytics
+## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis/Emojis/Objects/Bar%20Chart.png" width="28" /> &nbsp;GitHub Analytics
 
 <div align="center">
 
@@ -325,20 +417,18 @@ Directing technical strategy, enterprise architecture, and system design for an 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
-     🎓 EDUCATION
+     EDUCATION
      ═══════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="28" /> &nbsp;Education
+## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis/Emojis/Objects/Graduation%20Cap.png" width="28" /> &nbsp;Education
 
 <table>
 <tr>
 <td>
 
-🎓 &nbsp;**Bachelor of Science in Computer Science** — *GIFT University, Gujranwala, Pakistan*
+<img src="https://img.shields.io/badge/BSc-Computer_Science-6C63FF?style=flat-square" /> &nbsp; **GIFT University** — Gujranwala, Pakistan &nbsp; <img src="https://img.shields.io/badge/Sep_2022_--_Mar_2026-C9D1D9?style=flat-square" />
 
-📅 &nbsp;Sep 2022 – Mar 2026
-
-📄 &nbsp;**Thesis:** MAPF Lite — Published at FLINS ISKE 2026, included in Springer Nature proceedings volume
+**Thesis:** MAPF Lite — Published at FLINS ISKE 2026, included in Springer Nature proceedings volume
 
 </td>
 </tr>
@@ -347,42 +437,42 @@ Directing technical strategy, enterprise architecture, and system design for an 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
-     📜 CERTIFICATIONS
+     CERTIFICATIONS
      ═══════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark%20Tabs.png" width="28" /> &nbsp;Certifications
+## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis/Emojis/Objects/Bookmark%20Tabs.png" width="28" /> &nbsp;Certifications
 
 <div align="center">
 
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Certification &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp; Issuer &nbsp;&nbsp; | &nbsp; Year &nbsp; |
+| Certification | Issuer | Year |
 | :--- | :---: | :---: |
-| 🏅 OCI Certified Generative AI Professional | **Oracle** | `2025` |
-| 🏅 OCI Certified AI Foundations Associate | **Oracle** | `2025` |
-| 🏅 Agentic AI Expert | **IBM** | `2026` |
-| 🏅 Build RAG Applications | **IBM** | `2026` |
-| 🏅 NLP and Computer Vision Specialist | **IBM** | `2026` |
-| 🏅 Generative AI: Language Modeling with Transformers | **IBM** | `2026` |
-| 🏅 Advanced React | **Meta** | `2026` |
-| 🏅 Machine Learning Using Python | **IBM** | `2026` |
+| OCI Certified Generative AI Professional | **Oracle** | `2025` |
+| OCI Certified AI Foundations Associate | **Oracle** | `2025` |
+| Agentic AI Expert | **IBM** | `2026` |
+| Build RAG Applications | **IBM** | `2026` |
+| NLP and Computer Vision Specialist | **IBM** | `2026` |
+| Generative AI: Language Modeling with Transformers | **IBM** | `2026` |
+| Advanced React | **Meta** | `2026` |
+| Machine Learning Using Python | **IBM** | `2026` |
 
 </div>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
-     🏆 ACHIEVEMENTS
+     ACHIEVEMENTS
      ═══════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="28" /> &nbsp;Achievements
+## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis/Emojis/Activities/Trophy.png" width="28" /> &nbsp;Achievements
 
 <table>
 <tr><td>
 
-🥇 &nbsp;**MAPF Lite included in Springer Nature proceedings volume** — FLINS ISKE 2026
+<img src="https://img.shields.io/badge/-Publication-6C63FF?style=flat-square" /> &nbsp;**MAPF Lite included in Springer Nature proceedings volume** — FLINS ISKE 2026
 
-🏆 &nbsp;**AMD Developer Hackathon Act II Participant** — Team Neural Stack
+<img src="https://img.shields.io/badge/-Hackathon-00D9FF?style=flat-square" /> &nbsp;**AMD Developer Hackathon Act II Participant** — Team Neural Stack
 
-🏆 &nbsp;**Harvard HSIL Health Systems Hackathon Participant** — GIFT University
+<img src="https://img.shields.io/badge/-Hackathon-00D9FF?style=flat-square" /> &nbsp;**Harvard HSIL Health Systems Hackathon Participant** — GIFT University
 
 </td></tr>
 </table>
@@ -390,21 +480,21 @@ Directing technical strategy, enterprise architecture, and system design for an 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
-     🎯 CURRENT FOCUS
+     CURRENT FOCUS
      ═══════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="28" /> &nbsp;Current Focus
+## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis/Emojis/Travel%20and%20places/Glowing%20Star.png" width="28" /> &nbsp;Current Focus
 
 ```yaml
-🔬 learning:
+learning:
     - Multi-agent orchestration and dynamic reasoning loops
     - Large-scale pgvector architecture for hallucination-resistant RAG
 
-🏗️ building:
+building:
     - Neural Stack client projects     # AI-native full stack delivery
     - Deepfake Detection Review        # extending MAPF Lite research
 
-🎯 open_to:
+open_to:
     - Senior / Staff AI Engineering roles
     - Remote-first teams building production LLM systems
 ```
@@ -412,7 +502,7 @@ Directing technical strategy, enterprise architecture, and system design for an 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
-     🐍 SNAKE ANIMATION
+     SNAKE ANIMATION
      ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -428,7 +518,7 @@ Directing technical strategy, enterprise architecture, and system design for an 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
-     📬 FOOTER — Quote + Contact CTA + Wave
+     FOOTER
      ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -442,7 +532,7 @@ Directing technical strategy, enterprise architecture, and system design for an 
 
 <br/>
 
-### ⚡ Let's build something that actually ships.
+### Let's build something that actually ships.
 
 <br/>
 
