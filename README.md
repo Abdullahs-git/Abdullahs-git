@@ -4,7 +4,7 @@
      HERO SECTION — Futuristic Neon Terminal Header
      ═══════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,15:090979,40:00F0FF,70:FF00E5,100:020024&height=300&section=header&text=MUHAMMAD%20ABDULLAH%20BUTT&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=%3C%20SENIOR%20FULL%20STACK%20AI%20ENGINEER%20%2F%2F%20PUBLISHED%20RESEARCHER%20%2F%2F%20FOUNDER%20%3E&descAlignY=52&descSize=14&descColor=00F0FF" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,15:1a1a2e,40:00F0FF,70:FF00E5,100:0D1117&height=280&section=header&text=MUHAMMAD%20ABDULLAH%20BUTT&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=32&desc=Senior%20Full%20Stack%20AI%20Engineer%20%7C%20Published%20AI%20Researcher%20%7C%20Founder&descAlignY=52&descSize=16&descColor=C9D1D9" width="100%" alt="Header" />
 
 <br/>
 
@@ -559,6 +559,6 @@ open_to:
 
 ### &gt;_ Let's build something that actually ships.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:00F0FF,100:020024&height=130&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00F0FF,100:0D1117&height=120&section=footer" width="100%" />
 
 </div>
